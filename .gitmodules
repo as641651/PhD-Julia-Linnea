@@ -1,0 +1,3 @@
+[submodule "linnea"]
+	path = linnea
+	url = https://github.com/as641651/linnea.git
