@@ -45,6 +45,8 @@ RUN echo 'source /opt/rh/devtoolset-7/enable' >> ~/.bashrc
 RUN echo 'source /opt/intel/mkl/bin/mklvars.sh intel64 verbose' >> ~/.bashrc
 RUN echo 'alias julia="/julia/julia"' >> ~/.bashrc
 
+RUN pip3 install matplotlib
+
 #RUN adduser user
 #USER user
 
