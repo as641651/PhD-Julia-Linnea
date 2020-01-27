@@ -1,0 +1,493 @@
+1036	72	L	L	N	N	0.0006056264219310714	DataType[LowerTriangular, Random]	0.0002791	
+1264	954	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.019497900000000002	
+1354	1276	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0250193	
+794	431	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0021354	
+790	1480	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.019750300000000002	
+410	932	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.004954200000000001	
+850	253	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0006255000000000001	
+1193	67	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.00010300000000000001	
+1156	63	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0001	
+1289	1480	L	U	N	N	0.1372246215489089	DataType[UpperTriangular, Random]	0.0322163	
+1204	236	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0007259	
+355	1310	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.009064200000000001	
+1228	1288	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0239917	
+215	996	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0025409	
+574	1230	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.010450800000000001	
+1201	1045	L	L	N	N	0.6228599481746598	Any[LowerTriangular, Random(-5.0, 5.0)]	0.013407200000000001	
+53	1358	L	U	N	N	0.3961009162959708	Any[UpperTriangular, Constant(3.0)]	0.0019218000000000002	
+832	853	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0080084	
+1261	761	L	L	N	N	0.571404693998719	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0098886	
+576	1479	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0171995	
+1207	1203	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0202733	
+78	1314	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0036538	
+1414	1005	L	U	N	N	0.5864127195258445	DataType[UpperTriangular, Random]	0.0169347	
+1110	1190	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.018662	
+1296	1363	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.029495	
+1042	888	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.009611600000000001	
+1495	1476	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0344656	
+1005	50	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0001496	
+1265	1439	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0288938	
+1326	1469	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.031463700000000004	
+87	1347	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0034424000000000004	
+750	1301	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0125278	
+1351	1279	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.027035800000000002	
+459	1102	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0063395000000000005	
+1386	66	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.000174	
+180	1125	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.003954	
+79	1491	L	U	N	N	0.9777912089304839	DataType[UpperTriangular, Random]	0.0023403	
+697	1417	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0165735	
+1339	197	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0006174	
+58	217	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	6.620000000000001e-5	
+999	1217	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0177636	
+1369	315	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0023315000000000002	
+713	1189	L	L	N	N	0.9424584319492018	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0095409	
+1343	168	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0012879	
+86	1305	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0022389000000000003	
+516	925	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0046135	
+1405	626	L	U	N	N	0.018664760603612107	DataType[UpperTriangular, Random]	0.0077473	
+490	1299	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0109215	
+1496	1166	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.021208400000000002	
+1346	59	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0001362	
+1289	1395	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.027386800000000003	
+1361	402	L	L	N	N	0.8206652500284473	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0025931	
+1479	1187	L	U	N	N	0.22437952036467868	Any[UpperTriangular, Constant(3.0)]	0.024483400000000002	
+100	679	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0011223000000000001	
+1341	503	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0048535	
+919	148	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.00044520000000000003	
+1437	1319	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0267242	
+51	887	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0008042	
+1243	88	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.000231	
+1111	1308	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0198159	
+1059	962	L	U	N	N	0.4239059064669165	DataType[UpperTriangular, Random]	0.013439600000000001	
+1126	1317	L	U	T	N	0.15819151476749338	Any[UpperTriangular, Constant(3.0)]	0.021399400000000002	
+969	183	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0007061000000000001	
+54	1264	L	L	T	N	0.03756378405650562	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0012695	
+1450	219	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0010128000000000001	
+867	384	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0023572000000000003	
+1476	734	L	L	T	N	0.11635109155468315	Any[LowerTriangular, Random(-5.0, 5.0)]	0.010649	
+1225	715	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0092718	
+1367	1349	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.027667700000000003	
+197	505	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0008293	
+1049	1252	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0194497	
+1379	65	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.00010690000000000001	
+993	85	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.000153	
+890	72	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	9.0e-5	
+1094	860	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.007930600000000001	
+231	1281	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0047532	
+795	407	L	U	N	N	0.588906695881776	DataType[UpperTriangular, Random]	0.0018952	
+1239	69	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.00022360000000000001	
+1337	523	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0041406	
+886	1456	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.020393	
+285	1008	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0039603	
+1288	1137	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0181405	
+72	1289	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0028673	
+82	1307	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0017460000000000002	
+1380	642	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0088828	
+1013	556	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0030135	
+282	453	L	U	T	N	0.04648431863551117	DataType[UpperTriangular, Random]	0.0007758000000000001	
+279	178	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0001843	
+1321	1377	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.027286300000000003	
+765	1385	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0161462	
+154	809	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0011814	
+1259	135	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0002775	
+60	1245	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0013408	
+1099	1491	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.028985	
+1471	74	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.00029830000000000004	
+348	1334	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.007040800000000001	
+1008	1151	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0156027	
+953	1350	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.022375700000000002	
+1471	1274	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.025448500000000002	
+58	665	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0005071	
+1010	422	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0022151000000000002	
+74	126	L	U	N	N	1.0	DataType[UpperTriangular, Random]	4.35e-5	
+80	1336	L	L	T	N	0.7217375797445503	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0025178	
+1413	899	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0140631	
+654	1338	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.013874200000000001	
+1335	1373	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0267475	
+1397	742	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0082339	
+1214	51	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0003233	
+315	966	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0031332	
+1130	1020	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0131409	
+1114	522	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0047351	
+1453	123	L	U	N	N	0.59786624933594	Any[UpperTriangular, Constant(3.0)]	0.0005482	
+763	1392	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.015604900000000001	
+1293	1412	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0259728	
+68	1120	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0015575	
+839	1392	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.019056100000000003	
+1201	188	L	U	N	N	0.8698269532140234	DataType[UpperTriangular, Random]	0.0005139000000000001	
+71	1313	L	U	N	N	0.3363876678268347	Any[UpperTriangular, Constant(3.0)]	0.0025813000000000003	
+93	633	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0007601000000000001	
+959	592	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0035108	
+697	67	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	7.010000000000001e-5	
+99	1460	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0036566000000000003	
+925	94	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0003192	
+1011	1445	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.02503	
+951	942	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.008987100000000001	
+839	1444	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0203919	
+1336	777	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.011234300000000001	
+1096	157	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.000528	
+84	1141	L	U	T	N	0.0780911661212591	Any[UpperTriangular, Constant(3.0)]	0.0019876	
+561	727	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0040498	
+1299	85	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0002673	
+842	1290	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0175836	
+90	95	L	U	N	N	0.18441369534136365	Any[UpperTriangular, Constant(3.0)]	3.6e-5	
+397	223	L	U	T	N	0.2540945224709781	Any[UpperTriangular, Constant(3.0)]	0.0004312	
+877	1252	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.016126	
+70	429	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.00022600000000000002	
+942	1233	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.016631	
+854	333	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0013121	
+59	1396	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0015913000000000001	
+1459	939	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0225383	
+937	1182	L	L	T	N	0.289377446687366	DataType[LowerTriangular, Random]	0.016776700000000002	
+1291	54	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0001828	
+766	52	L	L	N	N	1.0	DataType[LowerTriangular, Random]	9.14e-5	
+1009	1248	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0202011	
+1475	1448	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.030814	
+1495	1386	L	L	T	N	0.918638563994078	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0311622	
+85	956	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0015710000000000001	
+1327	789	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.009367400000000001	
+1447	408	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0038497	
+1312	916	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0101185	
+1230	1134	L	U	N	N	0.5216838213484553	Any[UpperTriangular, Constant(3.0)]	0.0180195	
+1446	1082	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0169055	
+1307	92	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.00021490000000000002	
+1285	805	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0104065	
+1233	90	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0005878000000000001	
+1291	1148	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0187621	
+1432	90	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0002796	
+775	1256	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.012942	
+505	1345	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0116182	
+61	1457	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.001827	
+1211	1268	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.020157	
+57	1468	L	U	N	N	0.6919021239308715	Any[UpperTriangular, Constant(3.0)]	0.0019107000000000002	
+1354	867	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.012516500000000002	
+280	1305	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0056554000000000005	
+1371	1427	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0321014	
+942	1438	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.022493100000000002	
+1171	430	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0024181000000000003	
+59	1395	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0019717000000000003	
+430	1460	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.009734600000000001	
+1460	184	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0011258000000000002	
+91	742	L	L	N	N	0.6695929660728576	DataType[LowerTriangular, Random]	0.0010368	
+571	1436	L	L	N	N	0.10519633719931365	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0137792	
+1207	1297	L	U	T	N	0.09630912319551332	Any[UpperTriangular, Constant(3.0)]	0.022040300000000002	
+58	868	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0006367	
+1385	748	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.007614	
+638	1208	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0122827	
+85	373	L	U	N	N	0.2696877773466545	Any[UpperTriangular, Constant(3.0)]	0.0003174	
+690	565	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0026282000000000002	
+144	1005	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0015732	
+1007	597	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.005780400000000001	
+1153	299	L	L	T	N	0.5179695883655471	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0014013	
+1393	1415	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0365081	
+996	78	L	L	N	N	0.9240702225471239	DataType[LowerTriangular, Random]	0.0001717	
+600	1226	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0099903	
+65	1149	L	U	T	N	0.0065198518237596925	DataType[UpperTriangular, Random]	0.0015292	
+468	648	L	U	T	N	0.8093262784061289	Any[UpperTriangular, Constant(3.0)]	0.0028001000000000002	
+706	888	L	L	N	N	0.3594364273122549	DataType[LowerTriangular, Random]	0.005585700000000001	
+490	707	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0028211	
+912	1233	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0160819	
+146	332	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.00034270000000000004	
+74	1275	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0026231	
+118	95	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.00010250000000000001	
+1362	88	L	U	T	N	0.647564972565111	DataType[UpperTriangular, Random]	0.0002651	
+1342	193	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0006217	
+1275	1399	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.025416400000000002	
+1397	1308	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.023858800000000003	
+820	206	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0005904	
+1491	1294	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0300827	
+1204	328	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0018829	
+824	1411	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0168908	
+1461	945	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.015101000000000002	
+1281	1168	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0196752	
+1389	1200	L	U	N	N	0.3810093728447249	Any[UpperTriangular, Constant(3.0)]	0.021358000000000002	
+1224	1354	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0229719	
+55	81	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	3.12e-5	
+61	1380	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0016654	
+88	1188	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0015406	
+1209	1331	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.023468100000000002	
+626	1203	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0106219	
+904	1382	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.020344400000000002	
+138	300	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0001875	
+1313	1371	L	L	T	N	0.9346876515002509	DataType[LowerTriangular, Random]	0.0298584	
+1144	795	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0074066	
+1499	121	L	L	N	N	0.4207537164038033	DataType[LowerTriangular, Random]	0.0005920000000000001	
+1396	927	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0157259	
+77	814	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0008794	
+1415	1381	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0281453	
+1288	205	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0005571	
+50	872	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0008944000000000001	
+321	212	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0003189	
+1132	841	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.008886900000000001	
+861	925	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0090714	
+1477	1404	L	L	N	N	0.9484009524840973	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0317152	
+534	1029	L	U	N	N	0.1787648994493598	Any[UpperTriangular, Constant(3.0)]	0.008884300000000001	
+1191	1185	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0175926	
+704	592	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0021767	
+82	1223	L	U	T	N	0.773909470849376	Any[UpperTriangular, Constant(3.0)]	0.0025531	
+1314	59	L	U	N	N	0.6361913616971867	Any[UpperTriangular, Constant(3.0)]	9.48e-5	
+1266	1440	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.027804000000000002	
+146	55	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	3.88e-5	
+1428	91	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.00023630000000000002	
+723	1159	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.009436400000000001	
+85	57	L	L	N	N	1.0	DataType[LowerTriangular, Random]	3.47e-5	
+908	89	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.00036100000000000005	
+1425	1275	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.026775	
+1373	1396	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.028776200000000002	
+449	1273	L	U	N	N	0.9373998207644334	Any[UpperTriangular, Constant(3.0)]	0.007671900000000001	
+926	72	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	8.82e-5	
+1270	126	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.00048070000000000003	
+875	862	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0075272	
+94	558	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0005367	
+81	1115	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0023021	
+813	1345	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.018112800000000002	
+1124	572	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0046039	
+719	68	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	9.620000000000001e-5	
+1307	898	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0128432	
+1390	1320	L	L	N	N	0.7175099123613775	DataType[LowerTriangular, Random]	0.0274836	
+190	798	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0021443	
+272	50	L	L	N	N	1.0	DataType[LowerTriangular, Random]	3.2800000000000004e-5	
+703	1294	L	L	T	N	0.8241429156935317	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0163587	
+1375	933	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.013677900000000002	
+786	1371	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.020449400000000003	
+784	94	L	L	T	N	0.16676776999406973	Any[LowerTriangular, Random(-5.0, 5.0)]	0.00017480000000000002	
+1338	1281	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0249948	
+1447	928	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0146478	
+289	1328	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0057266	
+1477	1001	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0177524	
+1249	619	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0054870000000000006	
+1460	1189	L	U	N	N	0.27109128530738624	DataType[UpperTriangular, Random]	0.025291200000000003	
+731	224	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.00039640000000000004	
+501	79	L	U	T	N	1.0	DataType[UpperTriangular, Random]	9.93e-5	
+1341	1281	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.024109600000000002	
+1186	1471	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.026750100000000002	
+1284	1068	L	U	T	N	0.499020134865356	DataType[UpperTriangular, Random]	0.013847000000000002	
+712	386	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0012234000000000001	
+587	1399	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.010405000000000001	
+72	1292	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0015730000000000002	
+62	481	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.00026010000000000003	
+72	1086	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0017937	
+832	1447	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.021509800000000003	
+1207	725	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.008197600000000001	
+1499	1081	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.02245	
+79	608	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0007080000000000001	
+1313	80	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0002697	
+709	629	L	L	T	N	0.44642188630073576	DataType[LowerTriangular, Random]	0.0027079	
+1058	1175	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0184583	
+65	751	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0007241000000000001	
+214	1327	L	L	T	N	0.9553194828067791	DataType[LowerTriangular, Random]	0.0041142	
+1231	804	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0084314	
+1294	1449	L	U	N	N	0.5361829785674882	DataType[UpperTriangular, Random]	0.0319824	
+602	160	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0001761	
+1329	78	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.00022140000000000001	
+1026	1099	L	L	T	N	0.3323174843995643	DataType[LowerTriangular, Random]	0.015608	
+1073	1012	L	U	T	N	0.29293709772460363	DataType[UpperTriangular, Random]	0.015383	
+1068	1204	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0175476	
+944	1411	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0236858	
+888	1087	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0128608	
+176	1264	L	L	N	N	0.13450662841710226	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0028336000000000004	
+145	316	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0002298	
+783	326	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0013571000000000002	
+894	881	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.008375200000000001	
+839	81	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0001863	
+1378	1269	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0271757	
+1360	367	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0026768	
+1336	1184	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0200305	
+445	817	L	L	N	N	0.6134415467707878	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0031230000000000003	
+1306	962	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.023550300000000003	
+1383	1428	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.030241100000000003	
+1224	61	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0001227	
+867	1497	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0244399	
+58	1455	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0025055000000000003	
+316	1308	L	L	T	N	0.8680650976920297	DataType[LowerTriangular, Random]	0.0065907000000000006	
+870	542	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0029146000000000003	
+671	577	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0032282	
+83	1257	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0027938000000000004	
+926	1341	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0185904	
+1313	478	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.003917100000000001	
+1057	775	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0073388	
+52	1360	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0017724000000000001	
+1167	942	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0125401	
+1106	1399	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0230922	
+1347	1191	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.020733900000000003	
+99	1249	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0021662	
+1402	69	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.000126	
+64	1197	L	U	N	N	0.5724333121457295	Any[UpperTriangular, Constant(3.0)]	0.0022464	
+1495	71	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.00020490000000000002	
+779	1207	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.012768100000000001	
+1315	1349	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0282565	
+94	1055	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0023943000000000002	
+1214	1363	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0221973	
+353	1363	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0095298	
+1272	1331	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0256446	
+459	1392	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0122736	
+415	864	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0028407000000000003	
+825	586	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0049679	
+1299	231	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0010204	
+555	1434	L	L	N	N	0.5564848799378953	DataType[LowerTriangular, Random]	0.013937300000000001	
+984	391	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0020462	
+1288	342	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0022031	
+570	168	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0002818	
+1426	367	L	L	T	N	0.14701335449121422	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0022698	
+52	1187	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0014574000000000002	
+65	1414	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0028023	
+770	1339	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.015015500000000001	
+1028	589	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0031872000000000003	
+1436	82	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.00014890000000000001	
+1022	51	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.00010360000000000001	
+1252	1213	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.024208900000000002	
+75	719	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0009620000000000001	
+1464	72	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.00020690000000000001	
+1277	587	L	U	N	N	0.5625067909398147	DataType[UpperTriangular, Random]	0.007014800000000001	
+1067	792	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0088062	
+719	1446	L	U	N	N	0.05325500105245129	Any[UpperTriangular, Constant(3.0)]	0.0182503	
+361	65	L	U	T	N	0.14471744071057002	Any[UpperTriangular, Constant(3.0)]	7.25e-5	
+1196	1112	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0162455	
+231	974	L	L	N	N	0.5684779534741067	DataType[LowerTriangular, Random]	0.0026492	
+63	1443	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0017861	
+767	1135	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.015284700000000002	
+1473	272	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0019436000000000002	
+1387	94	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0001745	
+1150	766	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0091506	
+1111	1291	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.021648800000000003	
+1113	78	L	L	T	N	0.7777993400583814	DataType[LowerTriangular, Random]	0.000119	
+1185	82	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.000125	
+559	54	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	6.35e-5	
+1334	1353	L	L	N	N	0.464598119887204	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0253616	
+1213	54	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0001116	
+338	1044	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0049403	
+423	1147	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.006822600000000001	
+1317	1074	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0184921	
+1453	1085	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0203436	
+695	1444	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0154453	
+1174	228	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0012547	
+1223	1079	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0164759	
+1265	52	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.00010250000000000001	
+1418	493	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.005616100000000001	
+1242	995	L	L	T	N	0.4023847592326687	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0166007	
+1394	1469	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0305335	
+167	1270	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0041691	
+993	98	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0001444	
+1449	532	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0044536	
+91	837	L	U	N	N	0.2349017346194605	Any[UpperTriangular, Constant(3.0)]	0.0010014000000000002	
+1035	1122	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0145906	
+1302	124	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0002504	
+351	777	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0027061000000000003	
+56	887	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0010667	
+1071	1235	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.018355100000000003	
+791	711	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.005603400000000001	
+1130	1319	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0238415	
+52	1421	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0024648	
+1128	764	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0078206	
+158	1483	L	L	N	N	0.9610618935097507	DataType[LowerTriangular, Random]	0.0048766	
+1426	1422	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.032342	
+1431	959	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.013780100000000002	
+1236	1305	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.025961400000000003	
+791	476	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0033283	
+1476	1397	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0306054	
+1358	288	L	L	T	N	0.7241743998645962	DataType[LowerTriangular, Random]	0.0012731	
+1010	295	L	L	N	N	0.6841837561252176	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0010551	
+810	936	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0078009	
+218	1441	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0045415	
+1493	955	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0164003	
+763	1313	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.014952600000000002	
+1454	122	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0004553	
+719	905	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0061386	
+791	838	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.007730300000000001	
+1276	1491	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0297719	
+291	1216	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.005745500000000001	
+806	66	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0001155	
+818	802	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0067016	
+1260	390	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.003504	
+654	711	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0046157	
+71	1243	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0030158000000000003	
+1203	1464	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0278026	
+933	892	L	L	N	N	0.7475356370552362	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0091695	
+839	423	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0018038000000000002	
+1491	1110	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.018749500000000002	
+90	1321	L	L	T	N	0.9744129940812976	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0019153000000000002	
+596	449	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0011377000000000002	
+1440	75	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.00013120000000000002	
+900	1339	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0183842	
+1323	838	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.011259400000000001	
+677	1062	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0097376	
+92	1237	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0017357000000000002	
+717	1014	L	L	N	N	0.2766929053504339	DataType[LowerTriangular, Random]	0.0079781	
+1406	85	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0001954	
+914	743	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0067237	
+547	1354	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0133176	
+1015	1335	L	U	T	N	0.8565169920633796	Any[UpperTriangular, Constant(3.0)]	0.0202838	
+1222	82	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0001371	
+179	1485	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.006493100000000001	
+1290	197	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.001085	
+745	1439	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0163084	
+1186	807	L	L	T	N	0.11197982426209308	Any[LowerTriangular, Random(-5.0, 5.0)]	0.010180300000000002	
+1437	1335	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.027745600000000002	
+867	1394	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.018101700000000002	
+1490	1282	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0261872	
+95	1109	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0018794	
+189	1335	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0035324	
+806	975	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0083935	
+1274	173	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.00046390000000000005	
+436	1442	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0098694	
+1288	726	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0080765	
+857	1486	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0257875	
+87	953	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0017976000000000001	
+495	368	L	U	N	N	0.8828587290932363	Any[UpperTriangular, Constant(3.0)]	0.0008957	
+927	1415	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0221269	
+1380	1420	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.031711500000000004	
+828	67	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	7.72e-5	
+51	912	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.000648	
+1389	985	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.016421	
+296	1228	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0047041	
+1385	580	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0064377	
+394	1189	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0072207	
+1224	1380	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.026255800000000003	
+287	1232	L	U	T	N	0.25620425061746854	DataType[UpperTriangular, Random]	0.0052692	
+1365	1149	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0208469	
+271	896	L	L	N	N	0.4887695281823037	DataType[LowerTriangular, Random]	0.0037139000000000004	
+1341	262	L	U	N	N	0.04120225563948132	Any[UpperTriangular, Constant(3.0)]	0.0010048000000000001	
+1330	1089	L	U	T	N	0.824052904411553	Any[UpperTriangular, Constant(3.0)]	0.020520200000000002	
+1210	593	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.007784500000000001	
+1057	1373	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.023143300000000002	
+1362	892	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.010655300000000001	
+524	1402	L	L	T	N	0.27937670971798145	Any[LowerTriangular, Random(-5.0, 5.0)]	0.020544	
+1304	82	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.00021140000000000002	
+1412	56	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0001275	
+865	1425	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.0219945	
+493	98	L	L	T	N	0.606730250171748	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0001352	
+853	1320	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0158866	
+93	1372	L	U	T	N	0.09228395014216284	DataType[UpperTriangular, Random]	0.0021619	
+326	872	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0028318	
+60	764	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0009617	
+216	930	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0035123000000000003	
+987	97	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.00014110000000000001	
+162	873	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0033479	
+1044	51	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	9.630000000000001e-5	
+597	725	L	L	N	N	0.2895658428600748	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0031866000000000004	
+1464	1030	L	U	N	N	0.5913791210468184	DataType[UpperTriangular, Random]	0.0185554	
+1039	1265	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0191207	
+1479	1327	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.027830900000000002	
+1236	59	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0001292	
+1098	1170	L	U	T	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0169725	
+666	1209	L	U	N	N	1.0	DataType[UpperTriangular, Random]	0.0101045	
+1309	1292	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.023847100000000003	
+1269	1233	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0258818	
+352	814	L	U	T	N	0.3702588123110625	DataType[UpperTriangular, Random]	0.0034452000000000003	
+92	1441	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0032361	
+237	397	L	U	T	N	0.07360331538882581	DataType[UpperTriangular, Random]	0.00041650000000000004	
+1016	1269	L	U	T	N	1.0	DataType[UpperTriangular, Random]	0.0253454	
+94	296	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0002732	
+249	389	L	L	N	N	0.4397630265998157	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0008572	
+865	64	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	6.98e-5	
+425	93	L	U	T	N	0.6807682400425867	Any[UpperTriangular, Constant(3.0)]	9.77e-5	
+1223	1311	L	L	T	N	0.7622284612931697	DataType[LowerTriangular, Random]	0.0234584	
+558	985	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0054628	
+1300	1478	L	U	N	N	0.31159044256002755	DataType[UpperTriangular, Random]	0.031879000000000005	
+188	1331	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0047786	
+589	1335	L	L	N	N	0.1361074181072086	DataType[LowerTriangular, Random]	0.010492900000000001	
+903	904	L	U	N	N	1.0	Any[UpperTriangular, Constant(3.0)]	0.0089434	
+1265	68	L	L	T	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.0001573	
+552	50	L	L	T	N	1.0	DataType[LowerTriangular, Random]	0.00015570000000000002	
+133	1018	L	L	N	N	1.0	DataType[LowerTriangular, Random]	0.0015371	
+1248	862	L	L	N	N	1.0	Any[LowerTriangular, Random(-5.0, 5.0)]	0.011961000000000001	

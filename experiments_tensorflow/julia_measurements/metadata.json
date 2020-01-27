@@ -1,0 +1,107 @@
+{
+    "axpy": [
+        "m",
+        "n",
+        "alpha",
+        "propertyA",
+        "time"
+    ],
+    "gemm": [
+        "m",
+        "n",
+        "k",
+        "tA",
+        "tB",
+        "alpha",
+        "beta",
+        "propertyA",
+        "propertyB",
+        "time"
+    ],
+    "gemv": [
+        "m",
+        "n",
+        "tA",
+        "alpha",
+        "beta",
+        "propertyA",
+        "time"
+    ],
+    "getrf": [
+        "size",
+        "property",
+        "time"
+    ],
+    "portf": [
+        "size",
+        "uplo",
+        "property",
+        "time"
+    ],
+    "qr": [
+        "m",
+        "n",
+        "property",
+        "time"
+    ],
+    "scal": [
+        "shape",
+        "n",
+        "alpha",
+        "stride",
+        "time"
+    ],
+    "symm": [
+        "m",
+        "n",
+        "side",
+        "ul",
+        "alpha",
+        "beta",
+        "propertyB",
+        "time"
+    ],
+    "symv": [
+        "size",
+        "ul",
+        "alpha",
+        "beta",
+        "time"
+    ],
+    "transpose": [
+        "m",
+        "n",
+        "property",
+        "time"
+    ],
+    "trmm": [
+        "m",
+        "n",
+        "side",
+        "ul",
+        "tA",
+        "dA",
+        "alpha",
+        "property",
+        "time"
+    ],
+    "trsm": [
+        "m",
+        "n",
+        "side",
+        "ul",
+        "tA",
+        "dA",
+        "alpha",
+        "property",
+        "time"
+    ],
+    "trsv": [
+        "size",
+        "ul",
+        "tA",
+        "dA",
+        "property",
+        "time"
+    ]
+}
